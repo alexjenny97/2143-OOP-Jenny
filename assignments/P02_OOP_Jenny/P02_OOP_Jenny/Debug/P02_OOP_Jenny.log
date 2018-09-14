@@ -1,0 +1,7 @@
+﻿  myVector.cpp
+c:\users\alex\source\repos\p02_oop_jenny\p02_oop_jenny\myvector.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  P02OOPJenny.cpp
+c:\users\alex\source\repos\p02_oop_jenny\p02_oop_jenny\myvector.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  P02_OOP_Jenny.vcxproj -> C:\Users\Alex\source\repos\P02_OOP_Jenny\Debug\P02_OOP_Jenny.exe
+  P02_OOP_Jenny.vcxproj -> C:\Users\Alex\source\repos\P02_OOP_Jenny\Debug\P02_OOP_Jenny.pdb (Partial PDB)
