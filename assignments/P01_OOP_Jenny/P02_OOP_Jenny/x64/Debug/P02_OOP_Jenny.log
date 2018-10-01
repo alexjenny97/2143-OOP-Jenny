@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  P02OOPJenny.cpp
+c:\users\alex\source\repos\2143-oop-jenny\assignments\p01_oop_jenny\p02_oop_jenny\p02oopjenny.cpp(90): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  myVector.cpp
+c:\users\alex\source\repos\2143-oop-jenny\assignments\p01_oop_jenny\p02_oop_jenny\myvector.cpp(149): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
