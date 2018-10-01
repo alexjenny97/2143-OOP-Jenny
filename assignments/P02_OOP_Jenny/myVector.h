@@ -1,3 +1,13 @@
+/**
+*  Course: CMPS 2143 - OOP
+*
+*  Purpose: Overload varoius member functions
+*
+*  @author Alex Jenny
+*  @version 1.1 10/01/18
+*  @github repo: https://github.com/2143_OOP_Jenny
+*/
+
 #pragma once
 #include<iostream>
 

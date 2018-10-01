@@ -1,3 +1,13 @@
+/**
+*  Course: CMPS 2143 - OOP
+*
+*  Purpose: Vector class with overloaded functions
+*
+*  @author Alex Jenny
+*  @version 1.1 10/01/18
+*  @github repo: https://github.com/2143_OOP_Jenny
+*/
+
 #include<fstream>
 #include<iostream>
 #include "myVector.h"
@@ -55,13 +65,13 @@ using namespace std;
 
 		else // print vector
 		{
-			cout << "{";
+			out << "{";
 			for (int i = 0; i < V.numElements - 1; i++) 
 			{
 				out << V.arr[i] << ", ";
 			}
 			out << V.arr[V.numElements - 1];
-			cout << "}";
+			out << "}";
 		}
 
 		return out;
