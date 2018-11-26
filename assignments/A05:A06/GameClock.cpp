@@ -1,3 +1,13 @@
+    /**
+     *  Course: CMPS 2143 - OOP
+     *  Program: A05/A06
+     *
+     *  Purpose: Make bouncing clock
+     * 
+     *  @author Alex Jenny
+     *  @github repo: https://github.com/alexjenny97
+     */
+
 #pragma once
 #include <SFML/Graphics.hpp>
 #include <iostream>
