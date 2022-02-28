@@ -1,4 +1,4 @@
-# Program creates the Game Of Life (Conway) game
+# Program creates functions for the Game Of Life (Conway) game
 
 #include <SFML/Graphics.hpp>
 using namespace sf;
